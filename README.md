@@ -1,2 +1,2 @@
-# hyprland-void
-Hyprland for Void Linux
+# Hyprland for Void Linux
+Hyprland template and buids for Void Linux
