@@ -5,7 +5,7 @@ Hyprland templates and buids for Void Linux
 - Clone wlroots based on commit specified in the template file
 - Create tar.gz archive and place it in masterdir/home
 - Update common/shlibs, add the following:
-> libwlroots.so.11 wlroots-git-0.16.0+dev_1
+> libwlroots.so.11032 wlroots-git-0.16.0+dev_2
 
 ## Binary Releases
 Releases are for **x86_64** only.

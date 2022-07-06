@@ -2,7 +2,7 @@
 pkgname=wlroots-git
 # based on commit 5c4384a1330faedf975c8b8644881d50390f3613
 version=0.16.0+dev
-revision=1
+revision=2
 build_style=meson
 # Follow upstream packaging recommendations:
 # https://github.com/swaywm/wlroots/wiki/Packaging-recommendations
